@@ -1,0 +1,22 @@
+[package]
+name = "turnstile"
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = ["TheLukeGuy"]
+license = "Apache-2.0"
+description = "An argument validator and normalizer."
+repository = "https://github.com/TheLukeGuy/turnstile"
+keywords = [
+  "argument",
+  "parameter",
+  "value",
+  "valid",
+  "check",
+  "verify",
+  "assert",
+  "normal",
+  "standard",
+  "cast",
+  "error",
+]
+compiler = "0.8.0"
